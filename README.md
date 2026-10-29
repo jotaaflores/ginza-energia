@@ -52,5 +52,5 @@ futuros.
 ---
 
 *Proyecto grupal para un cliente real en la materia Laboratorio I, Licenciatura en Ciencia de
-Datos, UCA Rosario (2026). Con el mismo cliente seguimos en Laboratorio II, ahora con el análisis
-del consumo de agua.*
+Datos, UCA Rosario (2026). Con el mismo cliente seguimos en Laboratorio II, ahora con la gestión de
+residuos.*
